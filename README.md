@@ -7,3 +7,4 @@ Oferece um método que define um algoritmo (uma sequência de passos) que pode, 
 Utilize o padrão Template Method quando você quer deixar os clientes estender apenas etapas particulares de um algoritmo, mas não todo o algoritmo e sua estrutura.
 Utilize o padrão quando você tem várias classes que contém algoritmos quase idênticos com algumas diferenças menores. Como resultado, você pode querer modificar todas as classes quando o algoritmo muda.
 ## Estrutura
+![structure](https://user-images.githubusercontent.com/43156684/93686632-d63ee400-fa8d-11ea-86af-0896ab5e886e.png)
