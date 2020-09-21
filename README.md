@@ -14,4 +14,8 @@ Declara métodos que agem como etapas de um algoritmo, bem como o próprio méto
 #### Classes Concretas 
 Podem sobrescrever todas as etapas, mas não o próprio método padrão.
 # Exemplo de Implementação
+https://github.com/gustavokiyatake/Project-Pattern-Method/tree/master/Pattern-Method2/src
+
+https://github.com/gustavokiyatake/Project-Pattern-Method/tree/master/Pattern-Method3/src
+
 https://github.com/gustavokiyatake/Project-Pattern-Method/tree/master/Method/src
